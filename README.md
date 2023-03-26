@@ -1,47 +1,21 @@
-# Hi there 👋
+# 💫 About Me:
+🔭 I’m currently working on TenEleven<br>🌱 I’m currently learning Three.js, AWS<br>
 
-## What I Code With
-![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-![HTML](https://img.shields.io/badge/-HTML-e44d26)
-![CSS](https://img.shields.io/badge/-CSS-264de4)
-![Husky](https://img.shields.io/badge/-Husky-01737b)
-![ESLint](https://img.shields.io/badge/-ESLint-472fb9)
-![Prettier](https://img.shields.io/badge/-Prettier-de5959)
-![React](https://img.shields.io/badge/-React-5ccfee)
-![AWS](https://img.shields.io/badge/-AWS-ea901d)
-![Recoil](https://img.shields.io/badge/-Recoil-3578e5)
-![Zustand](https://img.shields.io/badge/-Zustand-592e3f)
-![Sass](https://img.shields.io/badge/-Sass-c76494)
-![Git](https://img.shields.io/badge/-Git-e84d31)
-![NPM](https://img.shields.io/badge/-NPM-c53635)
-![React_Query](https://img.shields.io/badge/-React_Query-ff4154)
-![React_Router](https://img.shields.io/badge/-React_Router-f44250)
-![Docker](https://img.shields.io/badge/-Docker-006bc0)
-![GitLab-CI](https://img.shields.io/badge/-GitLab-f46a25)
 
-## What I Play With
-![Nextjs](https://img.shields.io/badge/-Nextjs-000000)
-![Remix](https://img.shields.io/badge/-Remix-274161)
-![Github_Actions](https://img.shields.io/badge/-Github_Actions-65adff)
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/zakk#7003) 
 
-## Used
-![C/C++](https://img.shields.io/badge/-C/C++-005494)
-![Python](https://img.shields.io/badge/-Python-005494)
-![GNOME_Shell](https://img.shields.io/badge/-GNOME_Shell-35393d)
-![Debian](https://img.shields.io/badge/-Debian-cf064e)
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=jglee96&theme=react&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=jglee96&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jglee96&theme=react&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-<!--
-**jglee96/jglee96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=jglee96&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-Here are some ideas to get you started:
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
