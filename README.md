@@ -3,6 +3,14 @@ Profile README for github.com/jglee96
 Keep it crisp, measurable, and link-first.
 -->
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/github-banner-jglee96-dark-2560x640.png">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/github-banner-jglee96-light-2560x640.png">
+    <img alt="jglee96 banner" src="./assets/github-banner-jglee96-light-2560x640.png">
+  </picture>
+</p>
+
 <h1 align="left">이종건 (jglee96)</h1>
 
 <p align="left">
@@ -33,16 +41,19 @@ Keep it crisp, measurable, and link-first.
 ## Featured Projects
 
 ### 🏗️ buildit — policy-aware FAR optimization + 3D massing
+
 - 지도에서 대지 폴리곤 입력 → **법규 버전 선택/룰 스냅샷 고정** → **FAR 최대화 대안 생성** → Three.js로 3D 매스 시각화
 - Backend: FastAPI + SQLAlchemy / Frontend: React + Vite + TS + Tailwind + MapLibre + Three.js (FSD 구조)
 - Repo: https://github.com/jglee96/buildit
 
 ### ✍️ geur — focused markdown writing app (Tauri + React)
+
 - 선택 영역 기반 AI 리라이트 → **Keep/Undo**로 변경사항을 “수락/되돌리기” 하는 흐름
 - 로컬 폴더 기반 문서 관리, CodeMirror 기반 편집기
 - Repo: https://github.com/jglee96/geur
 
 ### 🎨 path gradation research (SVG / GLSL)
+
 - SVG path gradation 연구: https://github.com/jglee96/path_gradation
 - Shader(GLSL) 기반 실험: https://github.com/jglee96/path_gradation_glsl
 
