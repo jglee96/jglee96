@@ -19,9 +19,7 @@ Keep it crisp, measurable, and link-first.
 <p align="left">
   <a href="https://zakklee.dev">Blog</a> ·
   <a href="https://www.linkedin.com/in/zakklee">LinkedIn</a> ·
-  <a href="https://zakklee.dev/">Blog</a> ·
-  <a href="https://codepen.io/jglee96">CodePen</a> ·
-  <a href="https://zakkdev.vercel.app">Lab</a>
+  <a href="https://codepen.io/jglee96">CodePen</a>
 </p>
 
 ---
